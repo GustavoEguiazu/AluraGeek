@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Taza Stormtrooper",
+            "price": 60,
+            "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_832657-MLA71587702333_092023-O.webp"
+        },
+        {
+            "id": 2,
+            "name": "Apple watch",
+            "price": 100,
+            "imageUrl": "https://www.costco.com.mx/medias/sys_master/products/h4b/hd7/188945428348958.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Samsung S23 Ultra",
+            "price": 230,
+            "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/mx/2302/gallery/mx-galaxy-s23-s918-sm-s918blioltm-534853889?$650_519_PNG$"
+          },
+          {
+            "id": 4,
+            "name": "Ipad Pro 2TB",
+            "price": 190,
+            "imageUrl": "https://globaloffice.com.mx/img/CT/ipadapp512-z1.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Smart Tv 50",
+            "price": 200,
+            "imageUrl": "https://cdn1.coppel.com/images/catalog/pm/2096523-1.jpg"
+          },
+          {
+            "id": 6,
+            "name": "xbox Series s",
+            "price": 240,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Xbox-360-Consoles-Infobox.png"
+          },
+          {
+            "id": 7,
+            "name": "Mochila Razer",
+            "price": 90,
+            "imageUrl": "https://www.nemesisec.gg/wp-content/uploads/2022/08/Mochila-razer.png"
+          },
+          {
+            "id": 8,
+            "name": "iphone 15 pro",
+            "price": 234,
+            "imageUrl": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-15-pro/carousel/blue-titanium-5.png"
+          }
+    ]
+}

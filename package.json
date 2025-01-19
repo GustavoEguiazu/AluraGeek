@@ -1,0 +1,24 @@
+{
+    "name": "alurageek",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.1",
+        "json-server": "^1.0.0-beta.3"
+    },
+    "keywords": [],
+    "author": "Gustavo Eguiazú",
+    "license": "SEE LICENSE IN license.txt",
+    "description": "Plataforma de venta de productos tecnológicos",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GustavoEguiazu/AluraGeek.git"
+    },
+    "bugs": {
+        "url": "https://github.com/GustavoEguiazu/AluraGeek/issues"
+    },
+    "homepage": "https://github.com/GustavoEguiazu/AluraGeek#readme"
+}
